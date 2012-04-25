@@ -5,6 +5,14 @@ HTML5 fork game tuxanci.
 
 Demo: http://mascotsfight.html5canvas.cz/
 
+# Plans for future
+
+* @TODO in code :-)
+* speed optimization
+* singleplayer
+* WebSockets - multiplayer
+* more mascots (e.g. android :-))
+
 # What if I want to help?
 
 Please, contact me with any questions, comments, suggestions, or problems. I try to make the time to answer every request.
